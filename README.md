@@ -3,8 +3,8 @@ Curvas de rotacion de una galaxia.
 
 En este respositorio estan contenidos los archivos:
 
-RadialVelocities.dat
-CurvaRotacion.c
-plots.py
-Resultados_hw5.tex
+RadialVelocities.dat\n
+CurvaRotacion.c\n
+plots.py\n
+Resultados_hw5.tex\n
 Tarea5.mk
